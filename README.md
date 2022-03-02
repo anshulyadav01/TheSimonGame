@@ -10,4 +10,4 @@ The game uses jQuery extensively for creating the logic behind the frontend.
 4. If you miss the pattern the game automatically terminates an you can start the game again by presssing any key on keyboard.
 
 
-*This is an intermediate JavaScript project made while learning Full-Stack Development. 
+*This is an intermediate JavaScript project made while learning Full-Stack Development.*
